@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prashhviji
 - 👀 I’m interested in web Development
 - 🌱 I’m currently learning MongoDB and next.js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for internship
 - 📫 How to reach me : prasanth.v2023@vitstudent.ac.in
 
 
