@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prashhviji
+- 👋 Hi, I’m V.Prasanth
 - 👀 I’m interested in web Development
 - 🌱 I’m currently learning MongoDB and next.js
 - 💞️ I’m looking for internship
