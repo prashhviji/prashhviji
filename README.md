@@ -24,7 +24,7 @@ I am a passionate **MERN Stack Web Developer** specializing in building scalable
 ---
 
 ### 📫 How to reach me  
-- **Email:** your-email@example.com  
+- **Email:** prasanth.v2023@vitstudent.ac.in  
 - **LinkedIn:** [V. Prasanth](https://www.linkedin.com/in/prasanth-v7115)  
 
 ---
