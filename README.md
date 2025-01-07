@@ -1,6 +1,4 @@
-Here’s a README file tailored to you as a web developer based on the information you provided:
 
----
 
 # Hi 👋, I'm V. Prasanth  
 
