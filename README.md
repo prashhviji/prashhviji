@@ -5,10 +5,10 @@
 I am a passionate **MERN Stack Web Developer** specializing in building scalable and user-friendly web applications. I enjoy leveraging modern technologies to solve real-world problems and create innovative digital experiences.  
 
 ### 💻 Skills  
-- **Frontend:** React.js, Next.js 15, TypeScript  
+- **Frontend:** React.js, Next.js 15,
 - **Backend:** Node.js, Express.js, FastAPI  
 - **Database:** MongoDB, Sanity.io  
-- **Full Stack Development:** MERN (MongoDB, Express.js, React.js, Node.js)  
+- **Full Stack Development:** MERN (MongoDB, Express.js, React.js, Node.js)  ,Typescript
 - **Other Tools & Technologies:** REST APIs, JavaScript, Git, HTML5, CSS3  
 
 ---
