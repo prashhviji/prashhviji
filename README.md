@@ -3,7 +3,7 @@
 
 I am a passionate **MERN Stack Web Developer** specializing in building scalable and user-friendly web applications. I enjoy leveraging modern technologies to solve real-world problems and create innovative digital experiences.  
 
-![Programming GIF](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
+![Programming GIF]https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
 
