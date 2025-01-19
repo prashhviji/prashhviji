@@ -1,14 +1,16 @@
-
-
 # Hi 👋, I'm V. Prasanth  
 
 I am a passionate **MERN Stack Web Developer** specializing in building scalable and user-friendly web applications. I enjoy leveraging modern technologies to solve real-world problems and create innovative digital experiences.  
 
+![Programming GIF](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
+
+---
+
 ### 💻 Skills  
-- **Frontend:** React.js, Next.js 15,
+- **Frontend:** React.js, Next.js 15  
 - **Backend:** Node.js, Express.js, FastAPI  
 - **Database:** MongoDB, Sanity.io  
-- **Full Stack Development:** MERN (MongoDB, Express.js, React.js, Node.js)  ,Typescript
+- **Full Stack Development:** MERN (MongoDB, Express.js, React.js, Node.js), TypeScript  
 - **Other Tools & Technologies:** REST APIs, JavaScript, Git, HTML5, CSS3  
 
 ---
@@ -20,6 +22,8 @@ I am a passionate **MERN Stack Web Developer** specializing in building scalable
 
 ### 📂 Projects  
 - All my projects are available at [My GitHub](https://github.com/prashhviji)  
+
+![GitHub Views](https://komarev.com/ghpvc/?username=prashhviji&color=blue&style=flat-square)  
 
 ---
 
