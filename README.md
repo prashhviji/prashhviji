@@ -10,13 +10,12 @@ I am a passionate **MERN Stack Web Developer** specializing in building scalable
 
 <div style="display: flex; align-items: center;">
   <div>
-    - **Frontend:** React.js, Next.js 15  
-    - **Backend:** Node.js, Express.js, FastAPI  
-    - **Database:** MongoDB, Sanity.io  
-    - **Full Stack Development:** MERN (MongoDB, Express.js, React.js, Node.js), TypeScript  
-    - **Other Tools & Technologies:** REST APIs, JavaScript, Git, HTML5, CSS3  
+    - **Frontend:** React.js, Next.js 15 <br>
+    - **Backend:** Node.js, Express.js, FastAPI <br> 
+    - **Database:** MongoDB, Sanity.io  <br>
+    - **Full Stack Development:** MERN (MongoDB, Express.js, React.js, Node.js), TypeScript  <br>
+    - **Other Tools & Technologies:** REST APIs, JavaScript, Git, HTML5, CSS3  <br>
   </div>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programming GIF" width="300">
 </div>
 
 ---
