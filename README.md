@@ -6,6 +6,7 @@ I am a passionate **MERN Stack Web Developer** specializing in building scalable
 
 ---
 
+
 ### 💻 Skills  
 
 <div style="display: flex; align-items: center;">
