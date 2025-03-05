@@ -11,11 +11,11 @@ I am a passionate **MERN Stack Web Developer** specializing in building scalable
 
 <div style="display: flex; align-items: center;">
   <div>
-    - **Frontend:** React.js <br>
+    - **Frontend:** React.js, tailwind css <br>
     - **Backend:** Node.js, Express.js, FastAPI <br> 
     - **Database:** MongoDB, Sanity.io, Supabase  <br>
     - **Full Stack Development:** MERN (MongoDB, Express.js, React.js, Node.js), TypeScript , Next.js 15 <br>
-    - **Other Tools & Technologies:** REST APIs, Clerk, Git  <br>
+    - **Other Tools & Technologies:** REST APIs, Clerk, Git   <br>
   </div>
 </div>
 
