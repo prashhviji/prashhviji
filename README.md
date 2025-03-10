@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm V. Prasanth  
 
-I am a passionate **MERN Stack Web Developer** specializing in building scalable and user-friendly web applications. I enjoy leveraging modern technologies to solve real-world problems and create innovative digital experiences.  
+I am a passionate **Full Stack Web Developer** specializing in building scalable and user-friendly web applications. I enjoy leveraging modern technologies to solve real-world problems and create innovative digital experiences.  
 
 ---
 
