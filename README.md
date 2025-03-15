@@ -15,7 +15,7 @@ I am a passionate **Full Stack Web Developer** specializing in building scalable
     - **Backend:** Node.js, Express.js, FastAPI <br> 
     - **Database:** MongoDB, Sanity.io, Supabase<br>
     - **Full Stack Development:** MERN (MongoDB, Express.js, React.js, Node.js), TypeScript , Next.js 15 <br>
-    - **Other Tools & Technologies:** Clerk, Git, Postman  <br>
+    - **Other Tools & Technologies:** Clerk, Git, Vscode  <br>
   </div>
 </div>
 
