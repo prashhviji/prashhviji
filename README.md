@@ -40,6 +40,6 @@ I am a passionate **Full Stack Web Developer** specializing in building scalable
 ---
 
 ### 🌟 Let's Connect  
-Feel free to reach out for collaboration or to discuss web development and tech trends!   
+Feel free to reach out for collaboration or to discuss web development and tech trends!
 
 
