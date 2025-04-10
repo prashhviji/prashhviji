@@ -22,7 +22,7 @@ I am a passionate **Full Stack Web Developer** specializing in building scalable
 ---
 
 ### 🌱 Currently Learning  
-- Exploring advanced features in Next.js 15 and TypeScript for better performance and scalability.  
+- Exploring advanced features in TypeScript for better performance and scalability.  
 
 ---
 
