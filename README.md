@@ -21,11 +21,6 @@ I am a passionate **Full Stack Web Developer** specializing in building scalable
 
 ---
 
-### 🌱 Currently Learning  
-- Exploring advanced features in TypeScript for better performance and scalability.  
-
----
-
 ### 📂 Projects  
 - All my projects are available at [My GitHub](https://github.com/prashhviji)  
 
