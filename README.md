@@ -11,11 +11,11 @@ I am a passionate Full Stack Web Developer specializing in building scalable and
 
 <div style="display: flex; align-items: center;">
   <div>
-    - **Frontend:** React.js, Tailwind css, Svelte <br>
+    - **Frontend:** React.js, Tailwind css, Svelte, Javascript <br>
     - **Backend:** Node.js, Express.js, FastAPI, Supabase, prisma , drizzle<br> 
     - **Database:** MongoDB, Supabase<br>
     - **Full Stack Development:** MERN (MongoDB, Express.js, React.js, Node.js), TypeScript , Next.js 15 <br>
-    - **Other Tools & Technologies:** Github,  Git, Postman <br>
+    - **Other Tools & Technologies:** Github,  Git, Postman, <br>
   </div>
 </div>
 
