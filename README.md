@@ -6,7 +6,7 @@
   
 # 👋 Hey there, I'm V. Prasanth
 
-### 🚀 Full Stack Developer | Building the Future, One Line at a Time
+### 🚀 AI Engineer | Building the Future, One Line at a Time
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;UI%2FUX+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 
